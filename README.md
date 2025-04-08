@@ -42,11 +42,7 @@ Skrip ini dirancang untuk mengundang pengguna ke dalam sebuah channel Telegram. 
    ```bash
    python scrapper.py
 
-   
-3. sr. no., username, user id, name, Status
-
-Pastikan Anda mengganti data pada file CSV dengan informasi pengguna yang sesuai.
-
+  
 
 3. Kredensial API Telegram: Anda harus mendapatkan API ID dan API hash dari my.telegram.org.
 
