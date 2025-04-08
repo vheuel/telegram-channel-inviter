@@ -38,8 +38,9 @@ Skrip ini dirancang untuk mengundang pengguna ke dalam sebuah channel Telegram. 
    ```bash
    pip install telethon
 
-2. File CSV: Skrip ini membutuhkan file CSV yang berisi data pengguna yang ingin diundang. Format file CSV yang diperlukan adalah:
-
+2. File CSV: jalankan file untuk scrapper untuk mengambil data dari sebuah channel
+3.  ```bash
+   python scrapper.py
 sr. no., username, user id, name, Status
 
 Pastikan Anda mengganti data pada file CSV dengan informasi pengguna yang sesuai.
