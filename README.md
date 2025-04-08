@@ -1,4 +1,3 @@
-Berikut adalah file Markdown (.md) yang sudah diperbaiki menggunakan bahasa Indonesia, dengan tambahan penjelasan tentang cara kerja script berdasarkan percakapan kita:
 
 # Skrip Telegram Channel Inviter
 
