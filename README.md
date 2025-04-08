@@ -38,7 +38,7 @@ Skrip ini dirancang untuk mengundang pengguna ke dalam sebuah channel Telegram. 
    ```bash
    pip install telethon
 
-2. File CSV: jalankan file untuk scrapper untuk mengambil data dari sebuah channel
+2. File CSV: jalankan file scrapper untuk mengambil data dari sebuah channel
    ```bash
    python scrapper.py
 
